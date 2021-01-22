@@ -294,7 +294,6 @@ class QueryWriter {
     }
 
     private fun validateQuery() {
-
         val openedParentheses = queryStatement
             .filter { it == '(' }
             .length
