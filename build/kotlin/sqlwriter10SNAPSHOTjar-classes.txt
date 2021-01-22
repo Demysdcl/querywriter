@@ -1,1 +1,0 @@
-/home/snowmanlabs/Documents/proposal/sqlwriter/build/classes/kotlin/main/net/afferolab/sqlwriter/SQLWriter.class
